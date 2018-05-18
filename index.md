@@ -6,15 +6,4 @@ Mi nombre es Nicolas Alani, soy programador en diversos lenguajes, me especializ
 
 ### Trayectoria Profesional
 
--Secundario Completo
--Certificado Ingles
--Tec.Sup.Simulaciones Virtuales y Videojuegos
--Certificado QA Automation
--Lenguajes de Programacion
-  1.Python
-  2.C#
-  3.Java
--Conocimientos Adicionales
-  1.SQL
-  2.HTML/CSS
-  3.Ruby
+Participacion en diversas Jams de videojuegos con proyectos publicados, desempeñando diferentes roles (Diseñador, Programador, Game Designer) desarrollo de aplicaciones y software para soluciones empresariales, capacitado en el area de testing y QA.
