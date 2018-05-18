@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bienvenido!
 
-You can use the [editor on GitHub](https://github.com/PsHye/PersonalWebpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hola!, Bienvenido a mi sitio personal donde comparto mis conocimientos con el resto del mundo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Nicolas Alani, soy programador en diversos lenguajes, me especializo en QA Testing Automation de sofware.
 
-### Markdown
+### Trayectoria Profesional
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
